@@ -47,6 +47,8 @@ public class Homepage
 	System.out.println("Current slider value: " + sliderValue_updated);
 	
 	
+	
+	
 	driver.quit();
 }
 	
